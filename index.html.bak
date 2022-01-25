@@ -46,9 +46,9 @@
 
 		<h3>Text excerpts from: Project <a href="http://www.gutenberg.org">Gutenberg</a></h3>
 		<ul>
-			<li>Sangwon Park</li>
-			<li>ITMD-361</li>
-			<li>Lab 3</li>
+			<li><h3>Sangwon Park</h3></li>
+			<li><h3>ITMD-361</h3></li>
+			<li><h3>Lab 3</h3></li>
 		</ul>
 	</body>
 </html>
